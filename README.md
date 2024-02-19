@@ -1,10 +1,10 @@
-#'❄️SheraBot-MD❄️'
+# '❄️SheraBot-MD❄️'
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0089FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF00FF&height=120&section=header"/>
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0089FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF00FF&height=120&section=footer"/>
 unubican, por ejemplo:
 
 1 El nombre de tu carpeta es: Sher
