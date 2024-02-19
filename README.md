@@ -1,9 +1,11 @@
-# SheraBot-MD
+#'❄️SheraBot-MD❄️'
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0089FF&height=120&section=header"/>
 
 
-<img src="Sher/emojis/T-Rex.png" width="30"> Aqui te dejo un ejemplo de como usar los emojis:
-```js
-Tienes que direccionar el nombre de la carpeta, y el nombre de la carpeta que los emojis que se ubican, por ejemplo:
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0089FF&height=120&section=footer"/>
+unubican, por ejemplo:
 
 1 El nombre de tu carpeta es: Sher
 2 El nombre de la carpeta de emojis, es: emojis
