@@ -23,4 +23,4 @@ Ejemplo 2:
 <img src="Sher/emojis/Heart on Fire.png" width="30">
 ```
 # Demostracion del emoji de Bear.png
-<img src="Sher/emojis/Heart on Fire.png" width="30"
+
