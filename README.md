@@ -7,9 +7,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF00FF&height=120&section=footer"/>
 unubican, por ejemplo:
 
-1 El nombre de tu carpeta es: Sher
+#1 El nombre de tu carpeta es: Sher
+
 2 El nombre de la carpeta de emojis, es: emojis
-3 escribe el nombre correctamente del emoji que quieras, por ejemplo el se corazon con fuego es: bear
+
+#3 escribe el nombre correctamente del emoji que quieras, por ejemplo:bear.png
 ----------
 EJEMPLOS:
 
@@ -19,5 +21,5 @@ Ejemplo 1:
 Ejemplo 2:
 <img src="Sher/emojis/Heart on Fire.png" width="30">
 ```
-### Demostracion del emoji Heart on Fire.png
+## Demostracion del emoji Heart on Fire.png
 <img src="Sher/emojis/Heart on Fire.png" width="30">
