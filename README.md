@@ -1,4 +1,4 @@
-# '❄️SheraBot-MD❄️'
+# <img src="Sher/emojis/Comet.png" width="30">'SheraBot-MD'<img src="Sher/emojis/Comet.png" width="30">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF00FF&height=120&section=header"/>
 
@@ -15,21 +15,17 @@
 #### 3 escribe el nombre correctamente del emoji que quieras, por ejemplo: Bear.png
 ----------
 EJEMPLOS:
-
-Ejemplo 1:
 ```js
-<img src="•Carpeta inicial•/•Carpeta de emojis•/•Nombre de emoji•" width="30">
+//Un emoji de corazon en llamas, el nombre tiene
+//que ser exacto, por ejemplo:
+
+<img src="Sher/emojis/Heart on Fire.png" width="30">
 ```
-Ejemplo 2:
+## `Demostracion`
 <img src="Sher/emojis/Heart on Fire.png" width="30">
 
-## `Demostracion del emoji de Bear.png`
-<img src="Sher/emojis/Heart on Fire.png" width="30"
+## <img src="Sher/emojis/Bear.png" width="30"> AGRADECIMIENTO <img src="Sher/emojis/Polar Bear.png" width="30">
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/SupportBots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873687620) `Support Bots`
 
-## `Agradecimiento:`
-`Support Bots`
-<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/SupportBots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873687620)
-
-`Guardian_Creator`
-<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/GuardianOficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19145948340)
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/GuardianOficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19145948340) `Guardian_Creator`
 
