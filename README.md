@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF00FF&height=120&section=header"/>
 
-
+[![IMG-20240219-WA0000.jpg](https://i.postimg.cc/PJSdmQs6/IMG-20240219-WA0000.jpg)](https://postimg.cc/D4bVhszs)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF00FF&height=120&section=footer"/>
 unubican, por ejemplo:
