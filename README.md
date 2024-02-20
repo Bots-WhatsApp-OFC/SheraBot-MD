@@ -10,9 +10,9 @@
 
 √ proporcionaré ejemplos:
 
-#### `1 El nombre de tu carpeta es: `Sher``
+#### `1 El nombre de tu carpeta es:` Sher
 
-#### `2 El nombre de la carpeta de emojis, es: `emojis``
+#### `2 El nombre de la carpeta de emojis, es:` emojis
 
 #### `3 escribe el nombre correctamente del emoji que quieras, por ejemplo: Bear.png`
 <!-- RAINBOW LINE BOT -->
