@@ -8,7 +8,7 @@
 
 √ proporcionaré ejemplos:
 
-##1 El nombre de tu carpeta es: Sher
+## 1 El nombre de tu carpeta es: Sher
 
 2 El nombre de la carpeta de emojis, es: emojis
 
@@ -22,5 +22,5 @@ Ejemplo 1:
 Ejemplo 2:
 <img src="Sher/emojis/Heart on Fire.png" width="30">
 ```
-# Demostracion del emoji Heart on Fire.png
-<img src="Sher/emojis/Heart on Fire.png" width="30">
+# Demostracion del emoji de Bear.png
+<img src="Sher/emojis/Heart on Fire.png" width="30"
