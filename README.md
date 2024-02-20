@@ -9,7 +9,7 @@ unubican, por ejemplo:
 
 1 El nombre de tu carpeta es: Sher
 2 El nombre de la carpeta de emojis, es: emojis
-3 escribe el nombre correctamente del emoji que quieras, por ejemplo el se corazon con fuego es: Heart on Fire.png
+3 escribe el nombre correctamente del emoji que quieras, por ejemplo el se corazon con fuego es: bear
 ----------
 EJEMPLOS:
 
