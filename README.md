@@ -22,5 +22,6 @@ Ejemplo 1:
 Ejemplo 2:
 <img src="Sher/emojis/Heart on Fire.png" width="30">
 ```
-# Demostracion del emoji de Bear.png
+## Demostracion del emoji de Bear.png
+<img src="Sher/emojis/Heart on Bear.png" width="30"
 
