@@ -35,3 +35,29 @@ EJEMPLOS:
 
 [![WhatsApp](https://img.shields.io/badge/GuardianOficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19145948340) `Guardian_Creator`
 
+```bash
+termux-setup-storage
+```
+
+```bash
+apt-get update -y && apt-get upgrade -y
+```
+
+```bash
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
+```
+
+```bash
+git clone https://github.com/(TaekookGJ)/(SheraBot-MD) && cd (SheraBot-MD) && yarn install && npm install
+```
+
+```bash
+ls
+```
+```bash
+npm update
+```
+
+```bash
+npm start
+```
