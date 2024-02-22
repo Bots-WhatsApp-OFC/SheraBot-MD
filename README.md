@@ -48,7 +48,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/TaekookGJ/SheraBot-MD && cd SheraBot-MD && yarn install && npm install
+git clone https://github.com/TaekookGJ/SheraBot-MD && cd SheraBot-MD&& yarn install && npm install
 ```
 
 ```bash
