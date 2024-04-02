@@ -1,5 +1,14 @@
 # <img src="Sher/emojis/Comet.png" width="30">`SheraBot-MD`<img src="Sher/emojis/Comet.png" width="30">
 
+var tex = new creatjs.Text(
+  "sean bienvenidos",
+  "bold 24px Arial", "#fff");
+  text.textAlign = "center";
+  text.x = w / 2;
+  text.y = h / 2 - text.
+  tetMeasuredLineHeight();
+  stage.addChild(text);
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF00FF&height=120&section=header"/>
 
 [![IMG-20240219-WA0000.jpg](https://i.postimg.cc/PJSdmQs6/IMG-20240219-WA0000.jpg)](https://postimg.cc/D4bVhszs)
